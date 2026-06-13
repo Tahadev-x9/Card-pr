@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Detail — Meridian</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">Meridian</div>
+    <nav>
+      <a href="index.html">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <div class="detail-page">
+
+    <div class="left-side">
+      <img id="productImage" src="" alt="Product image">
+    </div>
+
+    <div class="right-side">
+      <div class="breadcrumb"><a href="index.html">Shop</a> / Product</div>
+
+      <h1 id="productName">Product Name</h1>
+      <p class="price" id="productPrice">$0</p>
+      <p class="description" id="productDescription">Description loading…</p>
+
+      <label class="qty-label">Quantity</label>
+      <div class="qty-box">
+        <button id="qtyMinus" aria-label="Decrease quantity">-</button>
+        <span id="qtyValue">1</span>
+        <button id="qtyPlus" aria-label="Increase quantity">+</button>
+      </div>
+
+      <button class="cart-btn">Add to Cart</button>
+      <button class="buy-btn">Buy Now</button>
+
+      <div class="detail-content">
+        <div class="section-title">Returns &amp; Refunds</div>
+        <div class="refund-info">
+          <div class="method-item"><i class="fas fa-check-circle"></i> <div><strong>30-Day Easy Returns</strong> — unused, unwashed items with original tags.</div></div>
+          <div class="method-item"><i class="fas fa-clock"></i> <div><strong>Refund timeline</strong> — processed within 5-7 business days after quality check.</div></div>
+          <div class="method-item"><i class="fas fa-exchange-alt"></i> <div><strong>Free exchange</strong> on size or colour defects.</div></div>
+          <div class="method-item"><i class="fas fa-hand-holding-usd"></i> <div><strong>Refund method</strong> — original payment method or store credit, your choice.</div></div>
+          <div class="method-item"><i class="fas fa-truck"></i> <div><strong>Return pickup</strong> available in major cities (minimal fee for change of mind).</div></div>
+        </div>
+      </div>
+
+      <div class="detail-content">
+        <div class="section-title">Shipping</div>
+        <div class="shipping-methods">
+          <div class="method-item"><i class="fas fa-truck"></i> <div><strong>Standard Delivery</strong> — 3-5 business days · Rs. 150 (free over Rs. 1500).</div></div>
+          <div class="method-item"><i class="fas fa-bolt"></i> <div><strong>Express Shipping</strong> — 1-2 business days · Rs. 350.</div></div>
+          <div class="method-item"><i class="fas fa-store"></i> <div><strong>Click &amp; Collect</strong> — pickup from your nearest partner store, free.</div></div>
+          <div class="method-item"><i class="fas fa-map-marker-alt"></i> <div><strong>International Shipping</strong> — available on request, rates shown at checkout.</div></div>
+          <div class="method-item"><i class="fas fa-envelope"></i> <div><strong>Order Tracking</strong> — real-time updates via SMS and email after dispatch.</div></div>
+        </div>
+        <div class="fast-dispatch"><i class="fas fa-clock"></i> <span><strong>Fast dispatch:</strong> orders placed before 3pm ship the same day.</span></div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="site-footer">Meridian — Crafted Essentials</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

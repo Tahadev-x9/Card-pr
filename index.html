@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meridian — Considered Essentials</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">Meridian</div>
+    <nav>
+      <a href="index.html">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="eyebrow">New Season — Tailored Collection</div>
+    <h1>Quiet pieces,<br>made to last.</h1>
+    <p>A small collection of considered staples — cut from natural fabrics, finished by hand, built for daily wear.</p>
+  </section>
+
+  <main class="product-container">
+
+    <article class="product-card" onclick="goToProduct(
+      'Tailored Pleated Trousers',
+      '$78',
+      'images/track8.jpg',
+      'Cut from a mid-weight cotton blend with a soft drape, these pleated trousers move easily between desk and dinner. Tailored through the hip with a relaxed leg.'
+    )">
+      <div class="index-num">01</div>
+      <div class="img-wrap">
+        <img src="images/track8.jpg" alt="Tailored Pleated Trousers">
+      </div>
+      <div class="card-info">
+        <h2>Tailored Pleated Trousers</h2>
+        <p class="price">$78</p>
+        <span class="view-link"><span class="line"></span> View Details</span>
+      </div>
+    </article>
+
+    <article class="product-card" onclick="goToProduct(
+      'Classic Black Shirt',
+      '$45',
+      'images/shirt3.jpg',
+      'A wardrobe constant. Woven from breathable cotton poplin with a clean collar and a slightly boxy fit — equally at home buttoned up or worn open over a tee.'
+    )">
+      <div class="index-num">02</div>
+      <div class="img-wrap">
+        <img src="images/shirt3.jpg" alt="Classic Black Shirt">
+      </div>
+      <div class="card-info">
+        <h2>Classic Black Shirt</h2>
+        <p class="price">$45</p>
+        <span class="view-link"><span class="line"></span> View Details</span>
+      </div>
+    </article>
+
+    <article class="product-card" onclick="goToProduct(
+      'Prenium jeans ',
+      '$120',
+      'images/jeans.jpg',
+      'A heavyweight jeans built for transitional weather, with a quilted lining and a structured collar. Finished in a matte twill that ages well over time.'
+    )">
+      <div class="index-num">03</div>
+      <div class="img-wrap">
+        <img src="images/jeans.jpg" alt="Premium Jeans">
+      </div>
+      <div class="card-info">
+        <h2>Premium jean lewis</h2>
+        <p class="price">$120</p>
+        <span class="view-link"><span class="line"></span> View Details</span>
+      </div>
+    </article>
+
+  </main>
+
+  <footer class="site-footer">Meridian — Crafted Essentials</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
