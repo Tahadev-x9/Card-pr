@@ -17,21 +17,6 @@ Fashion-focused landing page
 Smooth user experience
 Mobile-friendly design
 
-Sections
-Navigation Bar
-Hero Section
-Featured Collection
-Product Cards
-About Section
-Contact Section
-Footer
-Featured Products
-Tailored Pleated Trousers
-Classic Black Shirt
-Premium Jeans
-
-Technologies Used
-
 HTML5
 CSS3
 JavaScript
