@@ -23,4 +23,6 @@ JavaScript
 Responsive Design Principles
 Project Goal
 
-The purpose of this project was to practice front-end development skills by creating a professional fashion brand landing page inspired by modern luxury clothing websites.
+The purpose of this project was to practice front-end development skills by creating a professional fashion brand landing page inspired by modern luxury clothing webisitoes.. 
+
+luxury landing pages.. 
