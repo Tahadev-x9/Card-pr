@@ -13,13 +13,8 @@ Clean and minimal UI design
 Featured product showcase section
 Premium typography and spacing
 Fashion-focused landing page
-Smooth user experience
-Mobile-friendly design
+Smooth user experiences ,,
 
-# Language used :
-HTML5
-CSS3
-JavaScript
 Responsive Design Principles
 Project Goal
 
