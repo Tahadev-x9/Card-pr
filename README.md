@@ -20,4 +20,6 @@ Project Goal
 
 The purpose of this project was to practice front-end development skills by creating a professional fashion brand landing page inspired by modern luxury clothing webisitoes.. 
 
+
+duw8faby8fgbqbfbaiufbyqby8gahvfguyqb90bgfUFWA
 luxury landing pages.. 
