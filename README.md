@@ -24,5 +24,14 @@ Sponsered by claude ai...
 Smooth working of javascript...
 Product detailing...
 luxury landing pages...
- hloo 
- gayakqqhe7whehwjehdhdhdhdhfjdjdkdkdieejejejejejdjdj
+
+ # copy paste
+   # Project Title
+
+Use this command to install the dependencies:
+```bash
+npm install my-cool-package
+```
+
+
+ hlo underland we winw
