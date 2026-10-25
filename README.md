@@ -3,7 +3,7 @@
 # NETLIFY LINK PREVIEW : 
                    https://cardpro22.netlify.app/
 
-
+This is front skeleton of the page including several ai use with best photo edition... 
 Meridian is a modern fashion landing page designed with a clean and premium aesthetic. The website showcases a curated collection of timeless clothing essentials with a focus on minimalism, elegance, and user experience.
 The design highlights featured products, brand identity, and a refined shopping experience suitable for fashion.
 
