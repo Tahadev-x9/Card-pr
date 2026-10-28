@@ -13,7 +13,10 @@ Clean and minimal UI design
 Featured product showcase section
 Premium typography and spacing
 Fashion-focused landing page
-Smooth user experiences ,,
+Smooth user experiences 
+Best and easy preference
+Better usage
+Game shame ready 
 
 Responsive Design Principles
 Project Goal
